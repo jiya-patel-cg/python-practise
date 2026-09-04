@@ -1,0 +1,16 @@
+a=10
+b=11
+first_number,last_number = map(int,input("enter your first and last number : ").split())
+print(f"first number is {first_number} and last number is {last_number}")
+namee = input("Enter your name : ")
+age = input("Enter your age : ")
+lab = input("Enter your lab name :")
+product_name = input("Enter your product name :")
+product_price = input("Enter your product price :")
+count = input("Enter your product count :")
+total_price = int(product_price) * int(count)
+print(f"my name is {name} and I am {age} years old. I work in {lab} lab. and your product name is {product_name} and your product price is {product_price} and your product count is {count}.end=> your total price is {total_price}")
+print(type(str(name)), type(int(age)))
+first_name = input("enter your first name : ")
+a,b=map(int,input("enter your a and b : ").split()[ :2])
+#print(f"first number is {a} and last number is {b}")
