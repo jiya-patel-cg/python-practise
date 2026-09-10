@@ -125,15 +125,95 @@
 # else:
 #     print("This year is not a leap year")
 
+#que12
+# a=input("Enter a first character")
+# if "A"<=a <="Z":
+#     print("uppercase")
+# elif "a"<=a <="z":
+#     print("lowercase")
+# elif 0<=str(a) <=9:
+#     print("digit")
+# else:
+#     print("special character")
+
+#que13
+# a=input("enter a one alphabet:").lower()
+# if a in "aeiou":
+#     print("vowel")
+# else:
+#     print("consonant")
+
+
 #que 14
-cost_price=int(input("Enter a cost_price"))
-selling_price=int(input("Enter a selling_price"))
-if selling_price>cost_price:
-    print("profit")
-elif selling_price<cost_price:
-    print("loss")
-elif selling_price==cost_price:
-    print("No profit and No loss")
+# cost_price=int(input("Enter a cost_price"))
+# selling_price=int(input("Enter a selling_price"))
+# if selling_price>cost_price:
+#     print("profit")
+# elif selling_price<cost_price:
+#     print("loss")
+# elif selling_price==cost_price:
+#     print("No profit and No loss")
 
 
 #que15
+# num=input("Enter a 3 digit number:")
+# a=num%10
+# num=num//10
+# b=num%10
+# c=num//10
+# print(a+b+c)
+
+#que16
+# unit=int(input("enter number of unit:-"))
+
+# if unit <= 100:
+#     bill = unit*5
+# elif unit <= 200:
+#     bill = (100*5) + (unit - 100)*7
+# else:
+#     bill = (100*5)+(100*7)+(unit-200)*10
+
+# print("bill is",bill)
+#que18
+
+# a=int(input("enter your first number"))
+
+# b=int(input("enter your second number"))
+
+# print("1.addition\n2.subtaration\n3.multiplication\n4.division\n5.flor division\n choose your opretion")
+
+# aop=int(input("eneter your opretion number"))
+
+# if aop == 1:
+
+#     print(a+b)
+
+# elif aop == 2:
+
+#     print(a-b)
+
+# elif aop == 3:
+
+#     print(a*b)
+
+# elif aop == 4:
+
+#     print(a/b)
+
+# elif aop == 5:
+
+#     print(a//b)
+# else:
+#     print("you choose other number")
+
+# que20
+# a=int(input("Enter a first length"))
+# b=int(input("Enter a second length"))
+# c=int(input("Enter a third length"))
+# if a+b>c and b+c>a and c+a>b:
+#     print("valid")
+# else:
+#     print("invalid")
+
+
+ 
