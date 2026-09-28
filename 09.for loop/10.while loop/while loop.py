@@ -91,44 +91,12 @@ while i <= n:
     i += 1
 
 
-#14
-n = int(input("Enter n: "))
-i = 1
-while i <= n:
-    if i % 2 == 0 and i % 3 == 0:
-        print(i)
-    i += 1
+# #14
+# n = int(input("Enter n: "))
+# i = 1
+# while i <= n:
+#     if i % 2 == 0 and i % 3 == 0:
+#         print(i)
+#     i += 1
 
 
-#15
-n = int(input("Enter n: "))
-i = 1
-count = 0
-while i <= n:
-    if i % 2 == 0:
-        count += 1
-    i += 1
-print("Even count =", count)
-
-
-#16
-n = int(input("Enter n: "))
-i = 1
-total = 0
-while i <= n:
-    total += i
-    i += 1
-print("Sum =", total)
-
-
-#17
-n = int(input("Enter n: "))
-i = 2
-total = 0
-while i <= n:
-    total += i
-    i += 2
-print("Sum of evens =", total)
-
-
-#18
