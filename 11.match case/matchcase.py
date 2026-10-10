@@ -1,6 +1,6 @@
 # # #Q1]
 
-# print("Our Menu \n1==> Pizza\n2==> Burger\n3==> Pasta\n4==> Sandwich")
+#
 # num = int(input("Enter your choice: "))
 
 # match num:
@@ -17,7 +17,7 @@
 
 # #Q2]
 
-# print("1 ==> Wif - Fi\n2 ==> Bluetooth\n3 ==> Mobile Data\n4 ==> Airplane Mode\n5 ==> Exit")
+
 # numb = int(input("Enter your choice: "))
 
 # match numb:
@@ -36,7 +36,7 @@
 
 # #Q3]
 
-# print("\t1 ==> Check Balance\n\t2 ==> Withdraw Money\n\t3 ==> Deposit Money\n\t4 ==> Change PIN\n\t5 ==> Exit")
+# 
 # numb = int(input("Enter your choice: "))
 
 # match numb:
@@ -54,7 +54,7 @@
 #         print("Inavlid Input")
 
 # #Q4]
-# ligth = input("Enter the colour of Ligth at signal: ").lower()
+# ligth = input("Enter the colour of Ligth at signal: ")
 
 # match ligth:
 #     case "red":
@@ -70,7 +70,7 @@
 # numb = 1
 # while numb != 5:
 
-#     print("\t1 ==> View Profile\n\t2 ==> View Courses \n\t3 ==> View Marks\n\t4 ==> View Attendance\n\t5 ==> Logout")
+#     p
 
 #     numb = int(input("Enter your choice: "))
 
@@ -90,7 +90,7 @@
 
 # #Q6]
 
-# print("\t1 ==> Electronics \n\t2 ==> Clothing\n\t3 ==> Books\n\t4 ==> Grocery\n\t5 ==> Exit")
+# 
 # numb = int(input("Enter your choice: "))
 
 # match numb:
@@ -109,8 +109,7 @@
 # numb = 1
 # while numb != 6:
 
-#     print("\t1 ==>Account Balance\n\t2 ==> Mini Statement \n\t3 ==> Fund Transfer\n\t4 ==> Bill Payment\n\t5 ==> Customer Support\n\t6 ==> Exit")
-
+#     
 #     numb = int(input("Enter your choice: "))
 
 #     match numb:
@@ -133,7 +132,7 @@
 # numb = 1
 # while numb != 5:
 
-#     print("\t1 ==> Morning Show\n\t2 ==> Afternoon Show \n\t3 ==> Evening Show\n\t4 ==> Nigth Show\n\t5 ==> Exit")
+
 
 #     numb = int(input("Enter your choice: "))
 
@@ -153,7 +152,7 @@
 
 # #Q9]
 
-# print("\t1 ==> Sunny \n\t2 ==> Rainy\n\t3 ==> Cloudy\n\t4 ==> Snowy")
+#
 # numb = int(input("Enter your Weather: "))
 
 # match numb:
@@ -170,7 +169,7 @@
 
 # #Q10]
 
-# print("\t1 ==> UPI \n\t2 ==> Card\n\t3 ==> Cash\n\t4 ==> Wallet")
+# 
 # numb = int(input("Enter your Payment method: "))
 
 # match numb:
@@ -187,7 +186,7 @@
 
 # #Q11]
 
-# print("\t1 ==> pdf -> Document \n\t2 ==> jpg -> Image\n\t3 ==> png -> Image\n\t4 ==> mp3 -> Audio\n\t5 ==> mp4 -> Video")
+# 
 # numb = int(input("Enter Extension: "))
 
 # match numb:
@@ -206,7 +205,7 @@
 
 # #Q12]
 
-# print("\t1 ==> Admin \n\t2 ==> Teacher\n\t3 ==> Student\n\t4 ==> Guest")
+# 
 # numb = int(input("Enter your role: "))
 
 # match numb:
@@ -235,7 +234,7 @@
 
 # #Q14]
 
-# print("\t1 ==> Low \n\t2 ==> Medium\n\t3 ==> High\n\t4 ==> Critical")
+# 
 # numb = int(input("Enter priority number: "))
 
 # match numb:
@@ -248,7 +247,7 @@
 
 #Q15]
 
-# print("\t1 ==> Bronze \n\t2 ==> Silver\n\t3 ==> Gold\n\t4 ==> Platinium")
+# 
 # numb = int(input("Enter Your Membership Level: "))
 
 # match numb:
@@ -262,7 +261,7 @@
 
 # Q16]
 
-# account = input("Enter your account type:-").strip().lower()
+# account = input("Enter your account type:-")
 # choice = int(input("Enter your choice number:-"))
 
 # match account:
@@ -295,7 +294,7 @@
 
 # Q17]
 
-# account = input("Enter your account type:-").strip().lower()
+# account = input("Enter your account type:-")
 # choice=int(input("Enter your choice number:-"))
 
 # match account:
@@ -328,7 +327,7 @@
 
 # Q18]
 
-# category = input("Enter your category:-").strip().lower()
+# category = input("Enter your category:-")
 # choice=int(input("Enter your choice number:-"))
 # match category:
 #     case "electronics":
@@ -379,7 +378,7 @@
 #         print("Invalid Category")  
 
 #Q20]
-# print("\t1 ==> Addition \n\t2 ==> Subtraction\n\t3 ==> Multiplication\n\t4 ==> Division\n\t5 ==> Floor Division")
+# 
 # number=int(input("Enter your choice number:-"))
 # a=int(input("Enter your first integer:-"))
 # b=int(input("Enter your 2nd integer:-")) 
@@ -403,7 +402,7 @@
 #Q21]
 
 
-# print("\t1 ==> Celcius to Fahrenheit \n\t2 ==> Fahrenheit to Celsius")
+# 
 # choice=int(input("Enter your choice number:-"))   
 # temp=int(input("Enter your temperature:-"))
 
@@ -425,7 +424,7 @@
 
 #Q22]      
 
-# print("1 ==> Kilometers to meters \n 2==> Meters to Kilometers \n 3==> Kilograms to Grams \n 4==> Grams to Kilograms") 
+# 
 
 # choice=int(input("Enter your choice number:-")) 
 # num=int(input("Enter your value:-"))
@@ -450,7 +449,7 @@
 
 # Q23] 
 
-# Account_type=input("Enter your account type:-").strip().lower() 
+# Account_type=input("Enter your account type:-")
 # amount=int(input("Enter your amount:-"))
 
 # match Account_type:
@@ -472,7 +471,7 @@
 
 # Q24] 
 
-# print(" 1 ==> Start Exam \n 2==> View Result \n 3 ==> Exit")
+
 # choice=int(input("Enter your choice Number:-"))
 # age=int(input("Enter your age:-"))
 
@@ -492,7 +491,7 @@
 
 
 #Q25]
-# print(" 1 ==> Regular \n 2 ==> Premium \n 3 ==> VIP  ")
+# 
 
 # ticket_type = int(input("Enter ticket type: "))
 # age = int(input("Enter your age: "))
@@ -519,7 +518,7 @@
 
 # Q26]
 
-# print("1 → Light\n2 → Fan\n3 → AC\n4 → TV")
+# 
 
 # choice = int(input("Enter device: "))
 
@@ -539,8 +538,7 @@
 
 # Q27]
 
-# print("1 → General Medicine\n2 → Cardiology\n3 → Orthopedics\n4 → Pediatrics\n5 → Emergency")
-
+# 
 # choice = int(input("Enter department: "))
 
 # match choice:
@@ -560,7 +558,7 @@
 
 # Q28]
 
-# print("1 → Book Ticket\n2 → Cancel Ticket\n3 → Check PNR\n4 → Train Schedule\n5 → Exit")
+# 
 
 # choice = int(input("Enter choice: "))
 
@@ -581,7 +579,7 @@
 
 # Q29]
 
-# print("1 → Search Book\n2 → Issue Book\n3 → Return Book\n4 → View Issued Books\n5 → Exit")
+# 
 
 # choice = int(input("Enter choice: "))
 
@@ -603,7 +601,7 @@
 
 # Q30]
 
-# print("placed\nconfirmed\npreparing\nout_for_delivery\ndelivered\ncancelled")
+# 
 
 # status = input("Enter status: ").strip().lower()
 
@@ -626,14 +624,14 @@
 
 # Q31]
 
-# print("1 → Personal Banking\n2 → Business Banking")
+# 
 
 # banking_type = int(input("Enter banking type: "))
 
 # match banking_type:
 
 #     case 1:
-#         print("1 → Balance\n2 → Transfer\n3 → Loan")
+#       
 #         option = int(input("Enter option: "))
 
 #         match option:
@@ -647,7 +645,7 @@
 #                 print("Invalid Option")
 
 #     case 2:
-#         print("1 → Balance\n2 → Payroll\n3 → Business Loan")
+#        
 #         option = int(input("Enter option: "))
 
 #         match option:
@@ -666,14 +664,14 @@
 
 # 32]
 
-# print("1 → Student\n2 → Teacher\n3 → Parent")
+#
 
 # role = int(input("Enter role: "))
 
 # match role:
 
 #     case 1:
-#         print("1 → Marks\n2 → Attendance\n3 → Homework")
+#         
 #         option = int(input("Enter option: "))
 
 #         match option:
@@ -687,7 +685,7 @@
 #                 print("Invalid Option")
 
 #     case 2:
-#         print("1 → Enter Marks\n2 → Attendance\n3 → Assign Homework")
+#         
 #         option = int(input("Enter option: "))
 
 #         match option:
@@ -701,7 +699,7 @@
 #                 print("Invalid Option")
 
 #     case 3:
-#         print("1 → Child Marks\n2 → Child Attendance\n3 → Contact Teacher")
+#        
 #         option = int(input("Enter option: "))
 
 #         match option:
@@ -721,14 +719,13 @@
 
 # 33]
 
-# print("1 → Flight\n2 → Train\n3 → Bus")
 
 # transport = int(input("Enter transport: "))
 
 # match transport:
 
 #     case 1:
-#         print("1 → Economy\n2 → Business")
+#         
 #         option = int(input("Enter option: "))
 
 #         match option:
@@ -740,7 +737,7 @@
 #                 print("Invalid Option")
 
 #     case 2:
-#         print("1 → Sleeper\n2 → AC")
+#       
 #         option = int(input("Enter option: "))
 
 #         match option:
@@ -752,7 +749,7 @@
 #                 print("Invalid Option")
 
 #     case 3:
-#         print("1 → Ordinary\n2 → Volvo")
+#         
 #         option = int(input("Enter option: "))
 
 #         match option:
@@ -769,7 +766,7 @@
 
 # Q 34]
 
-# print("1 → Start Game\n2 → Load Game\n3 → Settings\n4 → Exit")
+#
 
 # choice = int(input("Enter choice: "))
 
@@ -782,7 +779,7 @@
 #         print("Game Loaded")
 
 #     case 3:
-#         print("1 → Sound\n2 → Graphics\n3 → Controls")
+#      
 #         option = int(input("Enter setting: "))
 
 #         match option:
@@ -805,14 +802,14 @@
 
 # Q 35]
 
-# print("1 → Starters\n2 → Main Course\n3 → Desserts\n4 → Drinks")
+# 
 
 # category = int(input("Enter category: "))
 
 # match category:
 
 #     case 1:
-#         print("1 → Soup\n2 → Spring Roll\n3 → Garlic Bread")
+#        
 #         item = int(input("Enter item: "))
 
 #         match item:
@@ -826,7 +823,7 @@
 #                 print("Invalid Item")
 
 #     case 2:
-#         print("1 → Pizza\n2 → Pasta\n3 → Biryani")
+#         
 #         item = int(input("Enter item: "))
 
 #         match item:
@@ -840,7 +837,7 @@
 #                 print("Invalid Item")
 
 #     case 3:
-#         print("1 → Ice Cream\n2 → Cake\n3 → Gulab Jamun")
+#       
 #         item = int(input("Enter item: "))
 
 #         match item:
@@ -854,7 +851,7 @@
 #                 print("Invalid Item")
 
 #     case 4:
-#         print("1 → Coffee\n2 → Tea\n3 → Juice")
+#        
 #         item = int(input("Enter item: "))
 
 #         match item:
@@ -874,14 +871,14 @@
 
 # Q36] 
 
-# print("1 → UPI\n2 → Card\n3 → Wallet")
+
 
 # payment = int(input("Enter payment type: "))
 
 # match payment:
 
 #     case 1:
-#         print("1 → Scan QR\n2 → Enter UPI ID")
+#      
 #         option = int(input("Enter option: "))
 
 #         match option:
@@ -893,7 +890,7 @@
 #                 print("Invalid Option")
 
 #     case 2:
-#         print("1 → Credit Card\n2 → Debit Card")
+#        
 #         option = int(input("Enter option: "))
 
 #         match option:
@@ -905,7 +902,7 @@
 #                 print("Invalid Option")
 
 #     case 3:
-#         print("1 → Add Money\n2 → Pay Using Wallet")
+#       
 #         option = int(input("Enter option: "))
 
 #         match option:
@@ -923,14 +920,14 @@
 
 # Q37]
 
-# print("1 → Programming\n2 → Mathematics\n3 → Communication")
+# 
 
 # subject = int(input("Enter subject: "))
 
 # match subject:
 
 #     case 1:
-#         print("1 → Python\n2 → Java\n3 → C++")
+#     
 #         option = int(input("Enter option: "))
 
 #         match option:
@@ -944,7 +941,7 @@
 #                 print("Invalid Option")
 
 #     case 2:
-#         print("1 → Algebra\n2 → Calculus\n3 → Statistics")
+#       
 #         option = int(input("Enter option: "))
 
 #         match option:
@@ -958,7 +955,7 @@
 #                 print("Invalid Option")
 
 #     case 3:
-#         print("1 → English\n2 → Presentation\n3 → Interview Skills")
+#        
 #         option = int(input("Enter option: "))
 
 #         match option:
@@ -979,14 +976,13 @@
 
 # Q 38]
 
-# print("1 → Engine\n2 → Lights\n3 → Music\n4 → Navigation")
+#
 
 # choice = int(input("Enter choice: "))
 
 # match choice:
 
 #     case 1:
-#         print("1 → Start\n2 → Stop")
 #         option = int(input("Enter option: "))
 
 #         match option:
@@ -998,7 +994,7 @@
 #                 print("Invalid Option")
 
 #     case 2:
-#         print("1 → Headlights\n2 → Indicators\n3 → Hazard Lights")
+#        
 #         option = int(input("Enter option: "))
 
 #         match option:
@@ -1012,7 +1008,7 @@
 #                 print("Invalid Option")
 
 #     case 3:
-#         print("1 → Play\n2 → Pause\n3 → Next\n4 → Previous")
+#        
 #         option = int(input("Enter option: "))
 
 #         match option:
@@ -1028,7 +1024,7 @@
 #                 print("Invalid Option")
 
 #     case 4:
-#         print("1 → Start Navigation\n2 → Stop Navigation")
+#        
 #         option = int(input("Enter option: "))
 
 #         match option:
@@ -1046,14 +1042,13 @@
 
 # Q39]
 
-# print("1 → Employee\n2 → Manager")
 
 # role = int(input("Enter role: "))
 
 # match role:
 
 #     case 1:
-#         print("1 → View Profile\n2 → Apply Leave\n3 → View Salary")
+#        
 #         option = int(input("Enter option: "))
 
 #         match option:
@@ -1075,7 +1070,7 @@
 #                 print("Invalid Option")
 
 #     case 2:
-#         print("1 → View Team\n2 → Approve Leave\n3 → View Reports")
+#         
 #         option = int(input("Enter option: "))
 
 #         match option:
@@ -1094,14 +1089,14 @@
 
 # Q40]
 
-# print("1 → Student\n2 → Teacher\n3 → Administration")
+#
 
 # role = int(input("Enter role: "))
 
 # match role:
 
 #     case 1:
-#         print("1 → Profile\n2 → Marks\n3 → Attendance\n4 → Courses")
+#         
 #         option = int(input("Enter option: "))
 
 #         match option:
@@ -1117,7 +1112,7 @@
 #                 print("Invalid Option")
 
 #     case 2:
-#         print("1 → Students\n2 → Enter Marks\n3 → Attendance\n4 → Courses")
+#        
 #         option = int(input("Enter option: "))
 
 #         match option:
@@ -1133,7 +1128,7 @@
 #                 print("Invalid Option")
 
 #     case 3:
-#         print("1 → Fees\n2 → Admissions\n3 → Notices\n4 → Departments")
+#        
 #         option = int(input("Enter option: "))
 
 #         match option:
