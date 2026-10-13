@@ -108,12 +108,21 @@
 #     print("B", i)
 
 #16
-n = 1
+# n = 1
 
-while n < 5:
-    n+=1
-    if n == 3:
-       
-        continue
+# while n <= 5:
+#     if n == 3:
+#         n += 1
+#         continue
 
-    n += 1
+#     print(n)
+#     n += 1
+
+#17
+# ch = input("enter a string")
+# for ch in ch:
+#     if ch in "aeiou":
+#         continue
+#     print(ch, end="")
+
+#18
