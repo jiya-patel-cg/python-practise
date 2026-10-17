@@ -130,3 +130,42 @@
 # print(product(price,quantity))
 
 #15
+# def create_email(username, domain="example.com"):
+#     return username + "@" + domain
+
+# print(create_email("jiya"))
+# print(create_email("jiya", "gmail.com"))
+
+#16
+# def format_name(first, last, uppercase=False):
+#     name = first + " " + last
+#     if uppercase:
+#         return name.upper()
+#     return name
+
+# print(format_name("jiya", "patel"))
+# print(format_name("jiya", "patel", True))
+
+#17
+# def percentage(marks, total=100):
+# #     return (marks / total) * 100
+
+# # print(percentage(80))
+# # print(percentage(45, 50))
+
+#18
+#  def percentage(marks, total=100):
+# #     return (marks / total) * 100
+
+# # print(percentage(80))
+# # print(percentage(45, 50))
+
+
+#19
+# def student_details(name, age, city):
+#     print("Name:", name)
+#     print("Age:", age)
+#     print("City:", city)
+
+# student_details(city="Pune", name="Rahul", age=18)
+

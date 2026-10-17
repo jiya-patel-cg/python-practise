@@ -61,10 +61,3 @@
 # result = mul(sub(a,b),add(b,c))
 # print(result)
 
-
-def double (number):
-    return number*2
-def add(number):
-    return number+5
-result = add(double(15))
-print(result)
