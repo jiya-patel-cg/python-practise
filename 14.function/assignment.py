@@ -154,13 +154,9 @@
 # # print(percentage(45, 50))
 
 #18
-#  def percentage(marks, total=100):
-# #     return (marks / total) * 100
-
-# # print(percentage(80))
-# # print(percentage(45, 50))
-
-
+# def convert_minutes(minutes, seconds_per_minute=60):
+#     return minutes * seconds_per_minute
+# print(convert_minutes(30))
 #19
 # def student_details(name, age, city):
 #     print("Name:", name)
@@ -168,4 +164,6 @@
 #     print("City:", city)
 
 # student_details(city="Pune", name="Rahul", age=18)
+
+
 
