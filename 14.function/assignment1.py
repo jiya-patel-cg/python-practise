@@ -278,3 +278,10 @@
 #     print("Two")
 
 # print("Three")
+
+
+def info(a,b,c,*args):
+    print(a,b)
+   
+
+info(9,8,7,4,3,2,1,a="6",b="5")
